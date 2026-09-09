@@ -32,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/vaibhavupadhyay6/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Math
+|  |
+| ------- |
+| [3871-count-commas-in-range-ii](https://github.com/vaibhavupadhyay6/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 <!---LeetCode Topics End-->
