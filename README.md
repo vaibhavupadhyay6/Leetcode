@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/vaibhavupadhyay6/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vaibhavupadhyay6/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vaibhavupadhyay6/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/vaibhavupadhyay6/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vaibhavupadhyay6/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vaibhavupadhyay6/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vaibhavupadhyay6/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/vaibhavupadhyay6/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/vaibhavupadhyay6/Leetcode/tree/master/0835-image-overlap) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/vaibhavupadhyay6/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Geometry
 |  |
 | ------- |
@@ -171,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vaibhavupadhyay6/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vaibhavupadhyay6/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vaibhavupadhyay6/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/vaibhavupadhyay6/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->
